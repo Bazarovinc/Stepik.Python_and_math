@@ -2,30 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58247958-b69c-4bea-b795-716ab8acc546" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1.4.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.4.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.4.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.4.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.4.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.3.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.3.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.3.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.3.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.3.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.3.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.3.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.4.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.4.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.4.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.5/2.5.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.5/2.5.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.6/2.6.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.6/2.6.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.6/2.6.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.6/2.6.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.6/2.6.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.6/2.6.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.7/2.7.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.7/2.7.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.7/2.7.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.7/2.7.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.7/2.7.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.7/2.7.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.7/2.7.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.7/2.7.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.8/2.8.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.8/2.8.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.8/2.8.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.8/2.8.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.8/2.8.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.8/2.8.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.8/2.8.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.8/mean" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.8/sheet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3.1/3.1.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3.1/3.1.2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3.1/3.1.2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3.2/3.2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3.2/3.2.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3.2/3.2.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3.2/3.2.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3.2/3.2.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3.2/3.2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3.2/3.2.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3.2/3.2.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3.2/3.2.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3.2/3.2.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3.2/3.2.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3.2/3.2.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3.2/3.2.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/4.1/4.1.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/4.1/4.1.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/4.1/4.1.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/4.1/4.1.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/4.1/4.1.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/4.1/4.1.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1/1.4/1.4.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1/1.4/1.4.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/1/1.4/1.4.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/1/1.4/1.4.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/1/1.4/1.4.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/1/1.4/1.4.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.2/2.2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.2/2.2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.2/2.2.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.2/2.2.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.2/2.2.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.2/2.2.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.2/2.2.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.2/2.2.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.3/2.3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.3/2.3.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.3/2.3.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.3.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.3/2.3.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.3.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.3/2.3.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.3.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.3/2.3.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.3.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.3/2.3.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.4/2.4.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.4/2.4.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.4/2.4.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.5.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.5/2.5.1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,82 +85,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.3.2.py">
+        <entry file="file://$PROJECT_DIR$/3/3.2/3.2.10.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="39" />
+            <state relative-caret-position="102">
+              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.3.7.py">
+        <entry file="file://$PROJECT_DIR$/3/3.2/3.2.11.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="2" />
+              <caret selection-end-line="8" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.4.1.py">
+        <entry file="file://$PROJECT_DIR$/3/3.2/3.2.12.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+              <caret selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.4.2.py">
+        <entry file="file://$PROJECT_DIR$/3/3.2/3.2.13.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="3" />
+              <caret selection-end-line="8" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.4.3.py">
+        <entry file="file://$PROJECT_DIR$/4/4.1/4.1.1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="23" />
+            <state>
+              <caret selection-end-line="5" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4/4.1/4.1.2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4/4.1/4.1.3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="25" column="24" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="25" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4/4.1/4.1.4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-203">
+              <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2.5.1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.3.4.py">
+        <entry file="file://$PROJECT_DIR$/4/4.1/4.1.7.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-column="23" />
+              <caret selection-end-line="54" selection-end-column="107" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.3.5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.3.6.py">
+        <entry file="file://$PROJECT_DIR$/4/4.1/4.1.6.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="2" selection-end-column="25" />
+              <caret selection-end-line="15" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -121,6 +179,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -131,41 +190,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1.4.1.py" />
-        <option value="$PROJECT_DIR$/1.4.2.py" />
-        <option value="$PROJECT_DIR$/1.4.3.py" />
-        <option value="$PROJECT_DIR$/1.4.4.py" />
-        <option value="$PROJECT_DIR$/1.4.5.py" />
-        <option value="$PROJECT_DIR$/1.4.6.py" />
-        <option value="$PROJECT_DIR$/2.2.1.py" />
-        <option value="$PROJECT_DIR$/2.2.2.py" />
-        <option value="$PROJECT_DIR$/2.2.3.py" />
-        <option value="$PROJECT_DIR$/2.2.4.py" />
-        <option value="$PROJECT_DIR$/2.2.5.py" />
-        <option value="$PROJECT_DIR$/2.2.6.py" />
-        <option value="$PROJECT_DIR$/2.2.7.py" />
-        <option value="$PROJECT_DIR$/2.2.8.py" />
-        <option value="$PROJECT_DIR$/2.3.1.py" />
-        <option value="$PROJECT_DIR$/2.3.2.py" />
-        <option value="$PROJECT_DIR$/2.3.3.py" />
-        <option value="$PROJECT_DIR$/2.3.4.py" />
-        <option value="$PROJECT_DIR$/2.3.5.py" />
-        <option value="$PROJECT_DIR$/2.3.6.py" />
-        <option value="$PROJECT_DIR$/2.3.7.py" />
-        <option value="$PROJECT_DIR$/2.4.1.py" />
-        <option value="$PROJECT_DIR$/2.4.2.py" />
-        <option value="$PROJECT_DIR$/2.4.3.py" />
-        <option value="$PROJECT_DIR$/2.5.1.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/Stepik.Python_and_math.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/2.5.6.py" />
+        <option value="$PROJECT_DIR$/2.6.1.py" />
+        <option value="$PROJECT_DIR$/2.6.2.py" />
+        <option value="$PROJECT_DIR$/2.6.3.py" />
+        <option value="$PROJECT_DIR$/2.6.4.py" />
+        <option value="$PROJECT_DIR$/2.6.5.py" />
+        <option value="$PROJECT_DIR$/2.6.6.py" />
+        <option value="$PROJECT_DIR$/2.7.1.py" />
+        <option value="$PROJECT_DIR$/2.7.2.py" />
+        <option value="$PROJECT_DIR$/2.7.3.py" />
+        <option value="$PROJECT_DIR$/2.7.4.py" />
+        <option value="$PROJECT_DIR$/2.7.5.py" />
+        <option value="$PROJECT_DIR$/2.7.6.py" />
+        <option value="$PROJECT_DIR$/2.7.7.py" />
+        <option value="$PROJECT_DIR$/2.py" />
+        <option value="$PROJECT_DIR$/2/2.7.7.py" />
+        <option value="$PROJECT_DIR$/2/2.7.5.py" />
+        <option value="$PROJECT_DIR$/2/2.7.8.py" />
+        <option value="$PROJECT_DIR$/2/2.8/2.8.1.py" />
+        <option value="$PROJECT_DIR$/2/2.8/2.8.2.py" />
+        <option value="$PROJECT_DIR$/2/2.8/2.8.3.py" />
+        <option value="$PROJECT_DIR$/2/2.8/sheet.txt" />
+        <option value="$PROJECT_DIR$/2/2.8/mean" />
+        <option value="$PROJECT_DIR$/2/2.8/2.8.4.py" />
+        <option value="$PROJECT_DIR$/2/2.8/2.8.6.py" />
+        <option value="$PROJECT_DIR$/2/2.8/2.8.5.py" />
+        <option value="$PROJECT_DIR$/2/2.8/2.8.7.py" />
+        <option value="$PROJECT_DIR$/3/3.2/3.2.1.py" />
+        <option value="$PROJECT_DIR$/3/3.1/3.1.1.py" />
+        <option value="$PROJECT_DIR$/3/3.1/3.1.2.1.py" />
+        <option value="$PROJECT_DIR$/3/3.1/3.1.2.2.py" />
+        <option value="$PROJECT_DIR$/3/3.2/3.2.2.py" />
+        <option value="$PROJECT_DIR$/3/3.2/3.2.3.py" />
+        <option value="$PROJECT_DIR$/3/3.2/3.2.4.py" />
+        <option value="$PROJECT_DIR$/3/3.2/3.2.5.py" />
+        <option value="$PROJECT_DIR$/1/1.4/1.4.6.py" />
+        <option value="$PROJECT_DIR$/3/3.2/3.2.6.py" />
+        <option value="$PROJECT_DIR$/3/3.2/3.2.7.py" />
+        <option value="$PROJECT_DIR$/3/3.2/3.2.8.py" />
+        <option value="$PROJECT_DIR$/3/3.2/3.2.9.py" />
+        <option value="$PROJECT_DIR$/3/3.2/3.2.10.py" />
+        <option value="$PROJECT_DIR$/3/3.2/3.2.11.py" />
+        <option value="$PROJECT_DIR$/3/3.2/3.2.12.py" />
+        <option value="$PROJECT_DIR$/3/3.2/3.2.13.py" />
+        <option value="$PROJECT_DIR$/4/4.1/4.1.1.py" />
+        <option value="$PROJECT_DIR$/4/4.1/4.1.2.py" />
+        <option value="$PROJECT_DIR$/4/4.1/4.1.3.py" />
+        <option value="$PROJECT_DIR$/4/4.1/4.1.4.py" />
+        <option value="$PROJECT_DIR$/4/4.1/4.1.5.py" />
+        <option value="$PROJECT_DIR$/4/4.1/4.1.6.py" />
+        <option value="$PROJECT_DIR$/4/4.1/4.1.7.py" />
       </list>
     </option>
   </component>
@@ -187,6 +262,17 @@
               <item name="Stepik.Python_and_math" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stepik.Python_and_math" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Stepik.Python_and_math" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stepik.Python_and_math" type="462c0819:PsiDirectoryNode" />
+              <item name="4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stepik.Python_and_math" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stepik.Python_and_math" type="462c0819:PsiDirectoryNode" />
+              <item name="4" type="462c0819:PsiDirectoryNode" />
+              <item name="4.1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -194,7 +280,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Никита\Desktop\Programming\Stepik.Python_and_math\1\1.4" />
+      <recent name="C:\Users\Никита\Desktop\Programming\Stepik.Python_and_math\2\2.7" />
+      <recent name="C:\Users\Никита\Desktop\Programming\Stepik.Python_and_math\2\2.6" />
+      <recent name="C:\Users\Никита\Desktop\Programming\Stepik.Python_and_math\2\2.5" />
+      <recent name="C:\Users\Никита\Desktop\Programming\Stepik.Python_and_math\2\2.4" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -208,8 +304,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2.4.3">
-    <configuration name="2.3.4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.4.1.7">
+    <configuration name="4.1.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Stepik.Python_and_math" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,11 +313,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4/4.1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.3.4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/4.1/4.1.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,7 +326,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.3.5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4.1.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Stepik.Python_and_math" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,11 +334,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4/4.1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.3.5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/4.1/4.1.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,7 +347,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.3.6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4.1.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Stepik.Python_and_math" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,11 +355,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4/4.1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.3.6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/4.1/4.1.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,7 +368,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.4.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4.1.4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Stepik.Python_and_math" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -280,11 +376,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4/4.1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.4.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/4.1/4.1.4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,7 +389,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.4.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4.1.7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Stepik.Python_and_math" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,11 +397,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4/4.1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.4.3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/4.1/4.1.7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,11 +412,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2.4.3" />
-        <item itemvalue="Python.2.4.1" />
-        <item itemvalue="Python.2.3.6" />
-        <item itemvalue="Python.2.3.5" />
-        <item itemvalue="Python.2.3.4" />
+        <item itemvalue="Python.4.1.7" />
+        <item itemvalue="Python.4.1.4" />
+        <item itemvalue="Python.4.1.3" />
+        <item itemvalue="Python.4.1.2" />
+        <item itemvalue="Python.4.1.1" />
       </list>
     </recent_temporary>
   </component>
@@ -341,6 +437,25 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11889036" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4993395" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006605" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -352,224 +467,422 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4993395" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006605" side_tool="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/1.4.4.py</url>
+          <url>file://$PROJECT_DIR$/1/1.4/1.4.4.py</url>
           <line>29</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/2.3.5.py</url>
+          <url>file://$PROJECT_DIR$/2/2.3/2.3.5.py</url>
           <line>1</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/2.4.3.py</url>
+          <url>file://$PROJECT_DIR$/2/2.4/2.4.3.py</url>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2/2.7/2.7.4.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2/2.8/2.8.4.py</url>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3/3.2/3.2.8.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4/4.1/4.1.2.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4/4.1/4.1.3.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4/4.1/4.1.4.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4/4.1/4.1.7.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.4.4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="26" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.4.5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.4.6.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.2.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.2.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.2.3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.2.4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.2.5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.2.6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.2.7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.2.8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.4.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.4.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.4.3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.3.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.3.3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="810" selection-start-line="810" selection-end-line="810" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="320" selection-start-line="320" selection-end-line="320" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.3.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.3.7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.4.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.4.2.py">
+    <entry file="file://$PROJECT_DIR$/2/2.6/2.6.1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.3.4.py">
+    <entry file="file://$PROJECT_DIR$/2/2.6/2.6.2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-column="23" />
+          <caret selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.3.5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.3.6.py">
+    <entry file="file://$PROJECT_DIR$/2/2.6/2.6.3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="2" selection-end-column="25" />
+          <caret selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.4.3.py">
+    <entry file="file://$PROJECT_DIR$/2/2.6/2.6.4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="23" />
+        <state>
+          <caret selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.5.1.py">
+    <entry file="file://$PROJECT_DIR$/2/2.6/2.6.5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.6/2.6.6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.7/2.7.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.2/2.2.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.7/2.7.6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.7/2.7.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.7/2.7.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.7/2.7.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.7/2.7.5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.7/2.7.7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.7/2.7.8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.5/2.5.6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.8/2.8.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.8/2.8.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.8/2.8.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.8/sheet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.8/mean">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/_bootlocale.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="320" selection-start-line="320" selection-end-line="320" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.8/2.8.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.8/2.8.6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.8/2.8.5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.8/2.8.7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/3.2/3.2.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/3.1/3.1.2.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/3.1/3.1.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/3.2/3.2.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/3.2/3.2.5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1/1.4/1.4.6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/3.2/3.2.3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/3.2/3.2.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/3.2/3.2.6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/3.2/3.2.7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/3.2/3.2.8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/3.2/3.2.9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/3.2/3.2.10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/3.2/3.2.11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/3.2/3.2.12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/3.2/3.2.13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/3.1/3.1.2.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/4.1/4.1.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/4.1/4.1.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/4.1/4.1.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="25" column="24" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/4.1/4.1.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/4.1/4.1.6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/4.1/4.1.7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="54" selection-end-column="107" />
         </state>
       </provider>
     </entry>

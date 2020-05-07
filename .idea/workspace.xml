@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58247958-b69c-4bea-b795-716ab8acc546" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4/4.4/4.4.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/4.4/4.4.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/4.4/4.4.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Stepik.Python_and_math.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Stepik.Python_and_math.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/4.5/4.5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/4.5/4.5.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/4.5/4.5.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/4.5/4.5.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/4.5/4.5.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/4.5/4.5.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/4.5/4.5.7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/req.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +48,8 @@
       <recent name="C:\Users\Никита\Desktop\Programming\Stepik.Python_and_math\2\2.4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4.4.5">
-    <configuration name="4.4.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.4.5.7">
+    <configuration name="4.5.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Stepik.Python_and_math" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,12 +57,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4/4.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4/4.5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/4.4/4.4.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/4.5/4.5.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.4.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4.5.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Stepik.Python_and_math" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,12 +79,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4/4.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4/4.5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/4.4/4.4.3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/4.5/4.5.4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.4.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4.5.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Stepik.Python_and_math" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,12 +101,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4/4.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4/4.5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/4.4/4.4.4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/4.5/4.5.5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.4.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4.5.6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Stepik.Python_and_math" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,12 +123,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4/4.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4/4.5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/4.4/4.4.5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/4.5/4.5.6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="req" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4.5.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Stepik.Python_and_math" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,12 +145,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4/4.5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/req.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/4.5/4.5.7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4.4.5" />
-        <item itemvalue="Python.4.4.4" />
-        <item itemvalue="Python.req" />
-        <item itemvalue="Python.4.4.3" />
-        <item itemvalue="Python.4.4.2" />
+        <item itemvalue="Python.4.5.7" />
+        <item itemvalue="Python.4.5.6" />
+        <item itemvalue="Python.4.5.5" />
+        <item itemvalue="Python.4.5.4" />
+        <item itemvalue="Python.4.5.3" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +180,9 @@
       <option name="presentableId" value="Default" />
       <updated>1582793653343</updated>
       <workItem from="1588621392912" duration="1105000" />
-      <workItem from="1588622510281" duration="1996000" />
+      <workItem from="1588622510281" duration="2559000" />
+      <workItem from="1588779106178" duration="8241000" />
+      <workItem from="1588878220184" duration="426000" />
     </task>
     <servers />
   </component>
@@ -191,46 +194,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1588622425499" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1588624675862">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1588878772432">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588624675862" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1588624675862">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588878772432" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1588878772431">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588624675862" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1588624675862">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588878772431" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1588878772431">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588624675862" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1588624675862">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588878772431" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1588878772432">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588624675862" />
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1588624605204">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588878772432" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1588793791855">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588624605204" />
-    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1588624605204">
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588793791855" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1588793791855">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588624605204" />
-    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1588624605204">
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588793791855" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1588793791855">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588624605204" />
-    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1588624605204">
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588793791855" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1588793791855">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588624605204" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588793791855" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1588621535800">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588621535800" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588622514541">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588878225484">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588622514541" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588878225484" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -305,14 +308,19 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/4/4.4/4.4.5.py</url>
-          <line>36</line>
+          <line>33</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Stepik_Python_and_math$4_5_5.coverage" NAME="4.5.5 Coverage Results" MODIFIED="1588786759944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4/4.5" />
+    <SUITE FILE_PATH="coverage/Stepik_Python_and_math$4_5_3.coverage" NAME="4.5.3 Coverage Results" MODIFIED="1588779917093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4/4.5" />
     <SUITE FILE_PATH="coverage/Stepik_Python_and_math$4_4_5.coverage" NAME="4.4.5 Coverage Results" MODIFIED="1588624675856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4/4.4" />
+    <SUITE FILE_PATH="coverage/Stepik_Python_and_math$4_5_7.coverage" NAME="4.5.7 Coverage Results" MODIFIED="1588878772423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4/4.5" />
     <SUITE FILE_PATH="coverage/Stepik_Python_and_math$4_4_4.coverage" NAME="4.4.4 Coverage Results" MODIFIED="1588622608604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4/4.4" />
+    <SUITE FILE_PATH="coverage/Stepik_Python_and_math$4_5_6.coverage" NAME="4.5.6 Coverage Results" MODIFIED="1588789583663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4/4.5" />
+    <SUITE FILE_PATH="coverage/Stepik_Python_and_math$4_5_4.coverage" NAME="4.5.4 Coverage Results" MODIFIED="1588782128882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4/4.5" />
   </component>
 </project>
